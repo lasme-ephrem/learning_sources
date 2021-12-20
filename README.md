@@ -1,4 +1,4 @@
-# learning_sources
+# Learning sources (scripts)
 Ce repos contient l'ensemble de mes sources sur l'apprentissage de la science Statistique. Globalement, vous trouverez des scripts sur :
 
 * La statistique descriptive
