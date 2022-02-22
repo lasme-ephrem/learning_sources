@@ -3,7 +3,11 @@ Ce repos contient l'ensemble de mes sources sur l'apprentissage de la science St
 
 * La statistique descriptive
 * L'analyse de données française
-* La statistique inférentielle : estimation paramétrique, estimation non paramétrique, modèles statistisques, simulations
+* La statistique inférentielle : 
+     **estimation paramétrique ;  
+     **estimation non paramétrique, 
+     **modèles statistisques, 
+     **simulations
 * La gestion des données manquantes
 * L'apprentissage statistique : Machine Learning & Deep Learning
 * L'économétrie 
