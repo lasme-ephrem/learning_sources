@@ -2,7 +2,7 @@
 Ce repos github est dédié à l'auto-apprentissage. Il contient l'ensemble de mes codes sources sur l'apprentissage de la science Statistique telle qu'elle perçue aujourd'hui. Globalement, vous trouverez des scripts sur :
 
 ## Science Statistique Traditionnelle 
-### (au paradigme de la théorie de la décision statistique et de la construction des modèles sattistiques) :
+##### (au paradigme de la théorie de la décision statistique et de la construction des modèles sattistiques) :
 
 * La statistique descriptive
 * L'analyse de données (multidimensionnelle) française
@@ -18,7 +18,7 @@ Ce repos github est dédié à l'auto-apprentissage. Il contient l'ensemble de m
 * L'économétrie
 
 ## Science Statistique Moderne 
-### (au paragadigme informatique du Machine Learning et de l'apprentissage statitique) :
+##### (au paragadigme informatique du Machine Learning et de l'apprentissage statitique) :
 
 * Machine Learning
 * Deep Learning
