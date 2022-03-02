@@ -1,5 +1,5 @@
 # Learning sources (scripts)
-Ce repos github est dédié à l'apprentissage. Il contient l'ensemble de mes codes sources sur l'apprentissage de la science Statistique telle qu'elle perçue aujourd'hui. Globalement, vous trouverez des scripts sur :
+Ce repos github est dédié à l'auto-apprentissage. Il contient l'ensemble de mes codes sources sur l'apprentissage de la science Statistique telle qu'elle perçue aujourd'hui. Globalement, vous trouverez des scripts sur :
 
 ## Science Statistique Traditionnelle 
 ### (au paradigme de la théorie de la décision statistique et de la construction des modèles sattistiques) :
