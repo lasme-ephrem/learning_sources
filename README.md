@@ -28,4 +28,4 @@ Ce repos github est dédié à l'auto-apprentissage. Il contient l'ensemble de m
 
 Je proposerai également des sources pour l'apprentissage du langage de programmation Python et du langage R appliqués à la science Statistique.
 
-Ce repos est fondé sur les langages de programmations R et Python. Il es disponible librement.
+Ce repos est fondé sur les langages de programmations R et Python. Il est disponible librement.
