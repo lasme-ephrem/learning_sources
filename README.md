@@ -1,5 +1,6 @@
 # Learning sources (scripts) 
-## -- (Attention : ce projet est en cours de développement)
+## -- <i>Attention : ce projet est en cours de développement</i>
+
 Ce repos github est dédié à l'auto-apprentissage. Il contient l'ensemble de mes codes sources sur l'apprentissage de la science Statistique telle qu'elle perçue aujourd'hui. Globalement, vous trouverez des scripts sur :
 
 ## Science Statistique Traditionnelle 
