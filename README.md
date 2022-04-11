@@ -20,7 +20,7 @@ Ce repos github est dédié à l'auto-apprentissage. Il contient l'ensemble de m
 * L'économétrie
 
 ## Science Statistique Moderne 
-##### Au paragadigme informatique du Machine Learning et de l'apprentissage statitique :
+##### Au paragadigme informatique du Machine Learning et de l'Apprentissage Statistique :
 
 * Machine Learning
 * Deep Learning
